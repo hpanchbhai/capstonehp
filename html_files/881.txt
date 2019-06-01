@@ -1,0 +1,282 @@
+Source Link: https://www.scu.edu/business/graduates/academic/concentrations/data-science-and-business-analytics/
+
+Skip to main content
+
+[Campus Safety](/university-operations/campus-safety/ "Home » Home »
+University Operations » Campus Safety")
+
+[Enrollment Services](/onestop/ "Home » Home » One Stop Enrollment")
+
+[Campus Ministry](/cm/ "Home » Home » Campus Ministry")
+
+[Facilities](/university-operations/facilities/ "Home » Home » University
+Operations » Facilities")
+
+[Diversity and Inclusion](/diversity/ "Home » Home » Diversity")
+
+[Technology at SCU](/technology/ "Home » Home » Technology at SCU")
+
+[Recreation](/recreation/ "Home » Home » Campus Recreation")
+
+[Sustainability](/sustainability/ "Home » Home » Sustainability at SCU")
+
+[Arts at SCU](/arts/ "Home » Home » Arts at SCU - Landing Page")
+
+[Bookstore](/auxiliary-services/bookstore/ "Home » Home » Auxiliary Services »
+Bookstore")
+
+[Career Center](/careercenter/ "Home » Home » Career Center")
+
+[Human Resources](/hr/ "Home » Home » Human Resources")
+
+[University Library](/library/ "Home » Home » University Library")
+
+[Mission Church](/missionchurch/ "Home » Home » Mission Santa Clara de Asís")
+
+[SCU Login](/login/ "Home » Home » Login")
+
+[More Offices & Services »](/services/)
+
+Schools & Colleges
+
+[College of Arts and Sciences](/cas/ "Home » Home » College of Arts and
+Sciences")
+
+[Education and Counseling Psychology](/ecp/ "Home » Home » School of Education
+and Counseling Psychology")
+
+[Leavey School of Business](/business/ "Home » Home » Leavey School of
+Business")
+
+Schools & Colleges
+
+[School of Engineering](/engineering/ "Home » Home » School of Engineering")
+
+[Jesuit School of Theology](/jst/ "Home » Home » Jesuit School of Theology")
+
+[School of Law](http://law.scu.edu)
+
+Centers of Distinction
+
+[Miller Center for Social Entrepreneurship](http://www.scu-social-
+entrepreneurship.org/)
+
+[Ignatian Center for Jesuit Education](/ic/ "Home » Home » Ignatian Center")
+
+[Markkula Center for Applied Ethics](/ethics/ "Home » Home » Markkula Center
+for Applied Ethics")
+
+[More Centers and Institutes »](/centers/)
+
+  * [Students](/students/)
+  * [Faculty & Staff](/faculty/)
+  * [Families](/family/)
+  * [Alumni](/alumni/)
+  * [Visitors](/visitors/)
+  * Offices & Services __
+  * Schools & Centers __
+
+[ __ Santa Clara University Homepage ](/)
+
+Search __
+
+menu
+
+Search __
+
+  * [Home](/)
+  * [About SCU](/aboutscu/)
+  * [Academics](/academics/)
+  * [Admission](/admission/)
+  * [Athletics](/athletics/)
+  * [Campus Life](/campus-life/)
+  * [Giving](/giving/)
+  * [Global](/global/)
+  * [News & Events](/news-and-events/)
+
+  * [Students](/students/)
+  * [Faculty](/faculty/)
+  * [Families](/family/)
+  * [Alumni](/alumni/)
+  * [Visitors](/visitors/)
+  * [Offices & Services](https://www.scu.edu/services/)
+  * [Schools & Centers](https://www.scu.edu/centers/)
+
+# Data Science and Business Analytics
+
+  1. [Home](/)
+  2. [Leavey School of Business](/business/)
+  3. [Current Students](/business/graduates/)
+  4. [Academics](/business/graduates/academic/)
+  5. [Concentrations](/business/graduates/academic/concentrations/)
+  6. Data Science and Business Analytics 
+
+Data Sciences and Business Analytics Concentration
+
+_**Concentration Coordinators** Sanjiv Das (Finance), Xiaojing Dong
+(Marketing)_
+
+Many new opportunities exist for managers to apply analytical techniques to
+business problems. This area has experienced explosive growth due to the
+availability of large corporate databases, enhanced computing tools, and the
+analytical culture of many Silicon Valley companies.
+
+_**Mission Statement** _ This concentration will provide MBA students with
+analytical and data skills, which are embedded in business knowledge.
+Graduates will be prepared  i) to link company data resources with knowledge
+of markets to address a wide range of business problems, ii) to offer market
+based perspectives and solutions where business intelligence is a fundamental
+driver of corporate value, and iii) to interface with engineering teams to
+deliver data-driven solutions.
+
+A large number of major Silicon Valley companies are managed by engineers and
+computer scientists, creating an expectation that managers throughout the
+organization are able to apply the tools of modeling and data analysis to
+business problems. This concentration is intended to provide students with the
+perspective, skills, and methods for interacting with, and being an interface
+between, business and data science professionals in companies in the
+application of data science and analytics solutions to business problems. A
+substantial number of our MBA students come with an interest and aptitude for
+analytical techniques due to their technical undergraduate degrees and related
+work experience.
+
+Students in this concentration will need a strong background in probability,
+statistics, regression analysis, and calculus.
+
+The motivations for this concentration are:
+
+  1. The local business environment: For many companies business competitiveness and decision making depend on applying analytical techniques to large corporate databases (big data) often using enhanced computing tools, such as cloud computing.
+  2. The analytical culture of companies in Silicon Valley: Many major companies here are managed by engineers and computer scientists. This has created a demand for managers with both business and analytical skills throughout the organization.
+
+The concentration is interdisciplinary and meets a growing need for knowledge
+workers in the Valley who employ quantitative methods, economic paradigms, and
+technology to business processes and decision making.
+
+_**Learning Objectives**_
+
+  1. Develop critical thinking skills for strategic evaluation and implementation of current data science (and big data) paradigms.
+  2. Understand and acquire technical expertise in various quantitative fields such as statistics, econometrics, calculus, optimization, and software paradigms, that underlie various analyses undertaken by corporations.
+  3. Learn how to build models (theoretical, statistical and econometric) to characterize business situations, develop strategies, and analyze these models, while collecting, verifying, and using data to achieve enhanced business decisions. 
+
+##### Courses fulfilling concentration
+
+_Select twelve units from those listed below:_
+
+**COURSE #** | **Course Name** | **Units**  
+---|---|---  
+ECON 3422 / MKTG 3588 | Profit-Focused Pricing | 3  
+ECON 3430 | Game Theory | 3  
+ECON 3436 | Applied Time Series | 3  
+FNCE 3490 | Machine Learning with R | 3  
+MKTG 3597  
+(previously 3696) | Marketing Analytics | 3  
+MKTG 3802 | Mobile Marketing and mCommerce | 3  
+IDIS 3802 / MSIS 2802 | Data Science Analysis with Python | 3  
+OMIS 3366 | Database Management Systems | 3  
+OMIS 3386 | Business Intelligence and Data Warehousing | 3  
+OMIS 3392 | Econometrics with R | 3  
+FNCE 2400 | Mathematics for Finance and Analytics | 3  
+  
+  
+
+**Job Possibilities: Data Science Concentration Graduates**
+
+Positions graduates will be ready for range from highly technical business
+data analysts to entry level data scientists. A person working in a data
+science environment today needs to know how (a) to ask relevant and sharply
+focused questions of business data, (b) to access data and use software
+languages to answer those questions, (c) to present results and
+visualizations, (d) to communicate effectively with non-technical management,
+(e) to understand business paradigms in the field, and (f) to critically
+evaluate the work of data scientists. Our academic advisory board for the
+concentration is made up of top data scientists at LinkedIn, Yahoo!, Macys,
+and Acxiom. They suggest that this chain of skills is critically needed. They
+believe that data scientists not only include computer scientists well versed
+in Big Data, but also those who understand markets, the tools of data science,
+the paradigms of business, and are able to pose fundamental business
+questions.
+
+For example, it is not important to know the technical aspects of cloud
+computing, but one should know what it is and where it fits into the business
+strategies of firms. It is not important  to be able to write sophisticated
+software or regression analysis tools, but it is necessary to know how to
+design and undertake regressions using the appropriate software to
+thoughtfully address the question at hand. Extensive knowledge of database
+engineering is not needed, but being able to extract data from databases to
+run analyses is needed. Modern day data analytics goes well beyond running
+Excel, so the skill set must include stronger analytic tools.
+
+When a student  is able to pose good questions, identify basic problems, and
+has the skills to use data well, within the appropriate economic paradigms,
+the student’s skill set will be applicable to a wide set of disciplines in
+business. The spillover benefits are wide-ranging, as students will find that
+courses in this concentration prepare them to be much more adept, both
+conceptually and technically, in other courses in the usual disciplines of
+marketing, finance, economics etc.
+
+
+
+_Last update July 2018_
+
+[Current Students Sections __](/business/graduate-degrees/)[Current
+Students](/business/graduate-degrees/)
+
+  * [Current Students](/business/graduate-degrees/)
+  * [Academics](/business/graduates/academic/)
+    * [Courses](/business/graduates/academic/courses/)
+    * [Concentrations](/business/graduates/academic/concentrations/)
+    * [Course Availability](/business/graduates/academic/course-availability/)
+    * [Graduate Business Bulletins](/business/graduates/academic/bulletins/)
+    * [Policies](/business/graduates/academic/policies/)
+    * [Forms](/business/graduates/academic/forms/)
+    * [Contact Graduate Business Programs Office](/business/graduates/academic/contact-graduate-business-programs-office/)
+  * [Career Management](/business/graduates/career-management/)
+  * [Student Life](/business/graduates/student-life/)
+  * [Alumni](/business/graduates/alumni/)
+  * [Calendar](/business/graduates/calendar/)
+  * [Graduate Business Bulletin](https://www.scu.edu/bulletin/graduate/leavey-school-of-business/)
+  * [Graduates Home](/business/graduate-degrees/)
+
+[GRADUATES](/business/graduate-degrees/)
+
+500 El Camino Real  
+Santa Clara, CA 95053  
+(408) 554-4000
+
+  * [Maps & Directions](https://www.scu.edu/map/148/Lucas+Hall)
+  * [Contact Lucas Hall](/business/about/contact/ "Home » Home » Leavey School of Business » About LSB » Contact Us")
+
+  * [ __ SCU on Facebook ](https://www.facebook.com/scubusiness)
+  * [ __ SCU on Twitter ](https://twitter.com/scubusiness)
+  * [ __ SCU on Instagram ](https://www.instagram.com/scubusiness/)
+  * [ __ SCU on Linkedin ](https://www.linkedin.com/school/santa-clara-university-leavey-school-of-business/)
+  * [ __ SCU on YouTube ](https://www.youtube.com/user/SCUBusinessSchool)
+
+* * *
+
+  * [Undergraduates](/business/undergraduates/ "Home » Home » Leavey School of Business » Undergraduates")
+  * [Graduates](/business/graduate-degrees/ "Home » Home » Leavey School of Business » Graduates")
+  * [Academics](/business/academics/ "Home » Home » Leavey School of Business » Academics")
+  * [Executive Education](/business/edc/ "Home » Home » Leavey School of Business » Executive Education")
+  * [Institutes](/business/centers/ "Home » Home » Leavey School of Business » Institutes")
+
+  * [MBA Degrees](/business/mba-degrees/ "Home » Home » Leavey School of Business » MBA Degrees")
+  * [MS Degrees](/business/ms-degrees/ "Home » Home » Leavey School of Business » MS")
+  * [Current Students](/business/graduates/ "Home » Home » Leavey School of Business » Current Students")
+  * [Career Management](/business/graduates/career-management/ "Home » Home » Leavey School of Business » Current Students » Career Management")
+  * [Grad Calendar](/business/graduate-degrees/calendar/ "Home » Home » Leavey School of Business » Graduates » Calendar")
+
+  * [About LSB](/business/about/ "Home » Home » Leavey School of Business » About LSB")
+  * [Dean Caryn Beck-Dudley](/business/about/leadership/dean/ "Home » Home » Leavey School of Business » About LSB » Leadership » Dean Caryn Beck-Dudley")
+  * [LSB News & Events](/business/news/ "Home » Home » Leavey School of Business » News & Events")
+  * [LSB Calendar](/business/calendar/ "Home » Home » Leavey School of Business » Calendar")
+  * Accessiblity icon [Accessibility](https://scu.edu/accessibility "Home » Home » Accessibility")
+
+[Santa Clara University](https://www.scu.edu/)
+
+(C) 2019 * [Accessibility](https://www.scu.edu/accessibility)
+
+[Login](https://www.scu.edu/login)|[ __SCU on
+Facebook](https://www.facebook.com/SantaClaraUniversity)[ __SCU on
+Twitter](https://twitter.com/SantaClaraUniv)
+

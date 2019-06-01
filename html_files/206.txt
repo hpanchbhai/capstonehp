@@ -1,0 +1,366 @@
+Source Link: https://www.scu.edu/business/isa/academics/
+
+Skip to main content
+
+[Campus Safety](/university-operations/campus-safety/ "Home » Home »
+University Operations » Campus Safety")
+
+[Enrollment Services](/onestop/ "Home » Home » One Stop Enrollment")
+
+[Campus Ministry](/cm/ "Home » Home » Campus Ministry")
+
+[Facilities](/university-operations/facilities/ "Home » Home » University
+Operations » Facilities")
+
+[Diversity and Inclusion](/diversity/ "Home » Home » Diversity")
+
+[Technology at SCU](/technology/ "Home » Home » Technology at SCU")
+
+[Recreation](/recreation/ "Home » Home » Campus Recreation")
+
+[Sustainability](/sustainability/ "Home » Home » Sustainability at SCU")
+
+[Arts at SCU](/arts/ "Home » Home » Arts at SCU - Landing Page")
+
+[Bookstore](/auxiliary-services/bookstore/ "Home » Home » Auxiliary Services »
+Bookstore")
+
+[Career Center](/careercenter/ "Home » Home » Career Center")
+
+[Human Resources](/hr/ "Home » Home » Human Resources")
+
+[University Library](/library/ "Home » Home » University Library")
+
+[Mission Church](/missionchurch/ "Home » Home » Mission Santa Clara de Asís")
+
+[SCU Login](/login/ "Home » Home » Login")
+
+[More Offices & Services »](/services/)
+
+Schools & Colleges
+
+[College of Arts and Sciences](/cas/ "Home » Home » College of Arts and
+Sciences")
+
+[Education and Counseling Psychology](/ecp/ "Home » Home » School of Education
+and Counseling Psychology")
+
+[Leavey School of Business](/business/ "Home » Home » Leavey School of
+Business")
+
+Schools & Colleges
+
+[School of Engineering](/engineering/ "Home » Home » School of Engineering")
+
+[Jesuit School of Theology](/jst/ "Home » Home » Jesuit School of Theology")
+
+[School of Law](http://law.scu.edu)
+
+Centers of Distinction
+
+[Miller Center for Social Entrepreneurship](http://www.scu-social-
+entrepreneurship.org/)
+
+[Ignatian Center for Jesuit Education](/ic/ "Home » Home » Ignatian Center")
+
+[Markkula Center for Applied Ethics](/ethics/ "Home » Home » Markkula Center
+for Applied Ethics")
+
+[More Centers and Institutes »](/centers/)
+
+  * [Students](/students/)
+  * [Faculty & Staff](/faculty/)
+  * [Families](/family/)
+  * [Alumni](/alumni/)
+  * [Visitors](/visitors/)
+  * Offices & Services __
+  * Schools & Centers __
+
+[ __ Santa Clara University Homepage ](/)
+
+######  [Santa Clara University](/)
+
+##  [Leavey School of Business](/business/)
+
+Search __
+
+menu
+
+Search __
+
+  * [Home](/)
+  * [About SCU](/aboutscu/)
+  * [Academics](/academics/)
+  * [Admission](/admission/)
+  * [Athletics](/athletics/)
+  * [Campus Life](/campus-life/)
+  * [Giving](/giving/)
+  * [Global](/global/)
+  * [News & Events](/news-and-events/)
+
+  * [Students](/students/)
+  * [Faculty](/faculty/)
+  * [Families](/family/)
+  * [Alumni](/alumni/)
+  * [Visitors](/visitors/)
+  * [Offices & Services](https://www.scu.edu/services/)
+  * [Schools & Centers](https://www.scu.edu/centers/)
+
+#  Department ofInformation Systems and Analytics
+
+AIMES Program Anthropology Art and Art History Asian Studies Program Biology
+Catholic Studies Program Chemistry and Biochemistry Child Studies Program
+Classics Communication Economics English Environmental Studies and Sciences
+Ethnic Studies History Latin American Studies Program Mathematics and Computer
+Science Medieval and Renaissance Studies Program Military Science Modern
+Languages and Literatures Music Neuroscience Philosophy Physics Political
+Science Psychology Public Health Program Religious Studies Sociology
+Sustainability Program Theatre and Dance Urban Education Program Women's and
+Gender Studies Aerospace Engineering Applied Mathematics Bioengineering Civil
+Engineering Computer Engineering Electrical Engineering Engineering Management
+& Leadership Mechanical Engineering Power Systems and Sustainable Energy
+Accounting
+
+Accounting & Information Systems Economics
+
+Finance
+
+Information Systems and Analytics (ISA) Management & Entrepreneurship
+
+Marketing
+
+# Academic Programs
+
+  1. [Home](/)
+  2. [Leavey School of Business](/business/)
+  3. [Information Systems & Analytics](/business/isa/)
+  4. Academic Programs 
+
+You can pursue one of two majors through the Information Systems and Analytics
+department: Management Information Systems (MIS), and the inter-departmental
+major of Accounting and Information Systems (AIS). You can also supplement a
+different major with an MIS or Business Analytics minor.
+
+![](/media/leavey-school-of-business/illustrations-mp/Holistic-
+Pie_1-360x283.png)
+
+As an ISA student, you will explore the use of computer information systems
+and analytical decision-making methods in organizations. You will take courses
+that combine theoretical concepts with applications to real-life problems, and
+participate in labs and projects that will allow you and your peers to work as
+a group to develop software programs and business applications.
+
+Essential to the conduct of business, these skills will equip you to design,
+implement, and evaluate day-to-day management systems central to an
+organization's success.
+
+## Major Requirements
+
+All students wishing to major in management information systems (MIS) or
+accounting and information systems (A&IS) must complete both the [University
+core curriculum requirements](/provost/core/ "Home » Home » Office of the
+Provost » Core Curriculum") and the [Leavey School of Business core
+requirements](/business/undergraduates/academics/lsb-core-curriculum/ "Home »
+Home » Leavey School of Business » Undergraduates » Academics » LSB Core
+Curriculum") for the bachelor of science in commerce degree.
+
+In addition, students majoring in MIS or A&IS must complete the following
+departmental requirements, respectively:
+
+### MIS Majors
+
+**Course** | **Units** | **Description**  
+---|---|---  
+OMIS 30 | 4 Units | Introduction to Programming  
+OMIS 105 | 5 Units | Database Management Systems  
+OMIS 106 | 5 Units | System Analysis and Design  
+OMIS 107 | 5 Units | Systems Programming  
+Three courses from |   |  
+OMIS 110 | 5 Units | Computer and Simulation Modeling  
+OMIS 111 | 5 Units | Computer Communication Systems  
+OMIS 113 | 5 Units | Data Warehousing and Business Intelligence  
+OMIS 114 | 5 Units | Data Science with Python  
+OMIS 116 | 5 Units | Applied Machine Learning  
+OMIS 117 | 5 Units | Software Development Project  
+OMIS 120 | 5 Units | Web Programming  
+OMIS 135 | 5 Units | Enterprise Resource Planning Systems  
+OMIS 137 | 5 Units | Object Oriented Programming  
+OMIS 150 | 5 Units | Financial Information Systems  
+OMIS 170 | 5 Units | Physical Database Design  
+OMIS 173 | 5 Units | E-Commerce Technologies  
+  
+###  
+Accounting & Information Systems Majors
+
+**Course** | **Units** | **Description**  
+---|---|---  
+ACTG 20 | 2 Units | Recording Financial Transactions  
+ACTG 130 | 5 Units | Intermediate Financial Accounting I  
+ACTG 131 | 5 Units | Intermediate Financial Accounting II  
+ACTG 132 | 5 Units | Advanced Financial Accounting  
+ACTG 135 | 5 Units | Auditing  
+ACTG 136 | 5 Units | Cost Accounting  
+ACTG 138 | 5 Units | Tax Planning and Business Decisions  
+OMIS 30  | 4 Units | Introduction to Programming  
+OMIS 105 | 5 Units | Database Management Systems  
+OMIS 106 | 5 Units |
+
+Systems Analysis and Design  
+  
+OMIS 150 (ACTG 155) | 5 Units | Financial Information Systems  
+One Course From | 5 Units | OMIS 107, 111, 113, 114, 120, 135, or 137  
+  
+_Note: Accounting and information systems  majors may use OMIS 30 to satisfy
+the information systems requirement in the Leavey School of Business
+curriculum. ACTG 155 and OMIS 150 are cross-listed.  
+  
+_
+
+## Minor Requirements
+
+The ISA department also offers a minor in MIS open to all students at SCU, as
+well as a minor in business analytics open to business students only. The
+minor programs provide non-MIS majors the opportunity to enhance their
+understand­ing of information technology and business analytics and enables
+them to apply this technology to their major field of study.
+
+The minors have the following requirements:
+
+##### MIS Minor Requirements
+
+__
+
+  * OMIS 30 - Introduction to Programming
+  * OMIS 105 - Database Management System
+
+Three elective courses from:
+
+  * OMIS 106 - Systems Analysis and Design
+  * OMIS 107 - Systems Programming
+  * OMIS 110 - Computer Simulation Modeling
+  * OMIS 111 - Computer Communication Systems
+  * OMIS 113 - Data Warehousing and Business Intelligence
+  * OMIS 114 - Data Science with Python
+  * OMIS 116 - Applied Machine Learning
+  * OMIS 117 - Software Development Project
+  * OMIS 120 - Web Programming
+  * OMIS 135 - Enterprise Resource Planning Systems
+  * OMIS 137 - Object Oriented Programming
+  * OMIS 150 - Financial Information Systmes
+  * OMIS 170 - Physical Database Design
+  * OMIS 173 - E-Commerce Technologies
+
+Non-business students minoring in MIS must also complete the following
+requirements:
+
+  * One course in mathematics chosen from MATH 11 or 30
+  * One course in statistics and data analysis chosen from OMIS 40, MATH 8, MATH 122, PSYC 40, or COMM 110
+  * Three courses in business chosen from BUSN 70, MGMT 160, MGMT 161, MKTG 181, FNCE 121, or OMIS 108
+
+##### Business Analytics Minor Requirements
+
+__
+
+  * OMIS 105 - Database Management Systems
+  * OMIS 109 - Prescriptive Analytics
+  * OMIS 114 - Data Science with Python
+  * OMIS 115 - Predictive Analytics
+
+One elective from:
+
+  * OMIS 113 - Data Warehousing and Business Intelligence
+  * ACTG 134 - Accounting Information Systems
+  * ACTG 155 - Financial Information Systems (cross-list with OMIS 150)
+  * ECON 173 - Applied Econometrics
+  * ECON 174 - Applied Times Series Analysis
+  * FNCE 146 - Introduction to Risk Management
+  * FNCE 148 - Risk Management and Insurance
+  * MKTG 182 - Analysis for Marketing Decisions
+
+**Where can I learn about these courses?**
+
+  * [OMIS Course Descriptions](/business/isa/academics/courses/ "Home » Home » Leavey School of Business » Operations Management & Information Systems » Academic Programs » Undergraduate Courses")
+  * [OMIS Course Availability](/business/isa/academics/availability/ "Home » Home » Leavey School of Business » Operations Management & Information Systems » Academic Programs » Undergraduate Course Availability")
+
+  * [Accounting Course Descriptions](/business/accounting/academics/courses/ "Home » Home » Leavey School of Business » Accounting » Academic Programs » Undergraduate Courses")
+  * [Accounting Course Availability](/business/accounting/academics/availability/ "Home » Home » Leavey School of Business » Accounting » Academic Programs » Undergraduate Course Availability")
+
+#####  Related Links
+
+[MS Business Analytics](/business/ms-business-analytics/ "Home » Home » Leavey
+School of Business » MS Business Analytics")
+
+[MS Information Systems](/business/ms-information-systems/ "Home » Home »
+Leavey School of Business » MS Information Systems")
+
+**Who will be teaching me?**
+
+Explore the professors who will be teaching your classes:
+
+  * [OMIS Faculty](/business/isa/faculty/ "Home » Home » Leavey School of Business » Operations Management & Information Systems » Faculty and Staff")
+  * [Accounting Faculty](/business/accounting/faculty/ "Home » Home » Leavey School of Business » Accounting » Faculty & Staff")
+
+**What can I do with this degree?**
+
+  * [ISA Careers](/business/isa/careers/ "Home » Home » Leavey School of Business » Information Systems & Analytics » Careers")
+
+[Information Systems & Analytics Sections __](/business/isa/)[Information
+Systems & Analytics](/business/isa/)
+
+  * [Information Systems & Analytics](/business/isa/)
+  * [About Us](/business/isa/about/)
+  * Academic Programs
+    * [Undergraduate Courses](/business/isa/academics/courses/)
+    * [Undergraduate Course Availability](/business/isa/academics/availability/)
+    * [Graduate Courses & Availability](/business/isa/academics/graduate-courses-and-availability/)
+    * [Advising](/business/undergraduates/advising/)
+  * [Faculty and Staff](/business/isa/faculty/)
+  * [Research](/business/isa/research/)
+  * [Beyond the Classroom](/business/isa/beyond-the-classroom/)
+  * [Careers](/business/isa/careers/)
+  * [News and Events](/business/isa/news-and-events/)
+  * [Calendar](/business/dept-calendar/)
+  * [Donate](https://mysantaclara.scu.edu/givenow?designation=Leavey%20School%20of%20Business&subdesignation=Operations%20Management%20and%20Information%20Systems&subdesignationactual=e6686182-6823-49cd-a19d-89871)
+
+[LEAVEY SCHOOL OF BUSINESS](/business/edc/)
+
+500 El Camino Real  
+Santa Clara, CA 95053  
+(408) 554-4000
+
+  * [Maps & Directions](https://www.scu.edu/map/148/Lucas+Hall)
+  * [Contact Lucas Hall](/business/about/contact/ "Home » Home » Leavey School of Business » About LSB » Contact Us")
+
+  * [ __ SCU on Facebook ](https://www.facebook.com/scubusiness)
+  * [ __ SCU on Twitter ](https://twitter.com/scubusiness)
+  * [ __ SCU on Instagram ](https://www.instagram.com/scubusiness/)
+  * [ __ SCU on Linkedin ](https://www.linkedin.com/school/santa-clara-university-leavey-school-of-business/)
+  * [ __ SCU on YouTube ](https://www.youtube.com/user/SCUBusinessSchool)
+
+* * *
+
+  * [Undergraduates](/business/undergraduates/ "Home » Home » Leavey School of Business » Undergraduates")
+  * [Graduates](/business/graduate-degrees/ "Home » Home » Leavey School of Business » Graduates")
+  * [Academics](/business/academics/ "Home » Home » Leavey School of Business » Academics")
+  * [Executive Education](/business/edc/ "Home » Home » Leavey School of Business » Executive Education")
+  * [Institutes](/business/centers/ "Home » Home » Leavey School of Business » Institutes")
+
+  * [Top Stories](/business/news/topstories/ "Home » Home » Leavey School of Business » News & Events » Top Stories")
+  * [Calendar](/business/news/calendar/ "Home » Home » Leavey School of Business » News & Events » Calendar")
+  * [Newsmakers](/business/news/newsmaker/ "Home » Home » Leavey School of Business » News & Events » Newsmakers")
+  * [LSB on Social](/business/news/social/ "Home » Home » Leavey School of Business » News & Events » LSB on Social")
+
+  * [About LSB](/business/about/ "Home » Home » Leavey School of Business » About LSB")
+  * [Dean Caryn Beck-Dudley](/business/about/leadership/dean/ "Home » Home » Leavey School of Business » About LSB » Leadership » Dean Caryn Beck-Dudley")
+  * [LSB News & Events](/business/news/ "Home » Home » Leavey School of Business » News & Events")
+  * [LSB Calendar](/business/calendar/ "Home » Home » Leavey School of Business » Calendar")
+  * Accessiblity icon [Accessibility](https://scu.edu/accessibility "Home » Home » Accessibility")
+
+[Santa Clara University](https://www.scu.edu/)
+
+(C) 2019 * [Accessibility](https://www.scu.edu/accessibility)
+
+[Login](https://www.scu.edu/login)|[ __SCU on
+Facebook](https://www.facebook.com/SantaClaraUniversity)[ __SCU on
+Twitter](https://twitter.com/SantaClaraUniv)
+

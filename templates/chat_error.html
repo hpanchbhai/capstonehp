@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BroncoBot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=2">
+  <script type="text/javascript" src="{{url_for('static',filename='js/bootstrap.min.js')}}"></script>
+  <script type="text/javascript" src="{{url_for('static',filename='jquery.min.js')}}"></script>
+  <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/bootstrap.min.css')}}">
+  <style>
+  body{
+    margin-left: 20%;
+    margin-right: 20%;}
+ .chat
+  {
+    list-style: none;
+    margin: auto auto auto auto;
+    padding: 25px auto 25px auto;
+}
+
+.chat li
+{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #601404  ;
+}
+
+.chat li.left .chat-body
+{
+    margin-left: 60px;
+    text-align: left;
+}
+
+.chat li.right .chat-body
+{
+    margin-right: 60px;
+    text-align: left;
+}
+
+
+.chat li .chat-body p
+{
+    margin: 0;
+    color: #601404  ;
+}
+
+.panel .slidedown .glyphicon, .chat .glyphicon
+{
+    margin-right: 500px;
+}
+
+.panel-body
+{
+    overflow-y: scroll;
+    height: 250px;
+}
+.container{
+    padding-top: 70px;
+    width:100%;
+}
+
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
+
+</style>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+</nav>
+<hr style="padding-top: 30px">
+<div id="chatPanel" class="panel panel-primary">
+<div class="panel-heading">
+<span class="glyphicon glyphicon-comment"> BroncoBot</span>
+</div>
+<div class="panel-body" style="overflow-y: scroll;
+    height: 500px;">
+    <ul class="media-list">
+        
+    </ul>
+</div>
+<div class="panel-footer">
+    <form method="post" class="form-group" id="form-chat">
+        <div class="input-group">
+            <input type="text" id="chatmessage" name="chatmessage" class="form-control">
+            <span class="input-group-btn">
+                <button type="button" class="btn-warning btn-sm col-10" id="btn-chat">Submit</button>
+            </span>
+        </div>
+    </form>
+</div>
+</div>
+</body>
+<script>
+$(function(){
+    $( "#btn-chat" ).click(function( event ) {
+      event.preventDefault();
+      $("#form-chat").submit();
+  });
+    $("#form-chat").submit(function(event){
+        event.preventDefault();
+        var pesan =$("#chatmessage").val();
+        var answer = window.localStorage.getItem('answer');
+        //$('answer').html(window.localStorage.getItem('answer'));
+        console.log(answer);
+        $( ".media-list" ).append('<li class="right clearfix"><span class="chat-img pull-right">\
+                                <img src="http://placehold.it/50/55C1E7/fff&text=User" alt="User Avatar" class="img-circle" />\
+                            </span>\
+                            <div class="chat-body clearfix">\
+                                <div class="header">\
+                                    <strong class="pull-right primary-font" align=right>Me</strong>\
+                                    </div>\
+                                    <p class="pull-right"><font color="black"><br>'+pesan+'</font></p>\
+                                </div>\
+                            </li>');
+        $(".panel-body").stop().animate({ scrollTop: $(".panel-body")[0].scrollHeight}, 1000);
+        console.log($(this).serialize());
+        $.ajax({
+            type: "POST",
+            url: "/ask",
+            data: $(this).serialize(),
+            success: function(response) {
+                $('#chatmessage').val('');
+                var answer = response.answer;
+                window.localStorage.setItem('answer', answer);
+                <!--var u=response.url;-->
+                const chatPanel = document.getElementById("chatPanel");
+               if(response.feedback == 'y'){
+                $(".media-list").append('<li class="left clearfix"><span class="chat-img pull-left">\
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg" alt="User Avatar" class="img-circle" align=left/>\
+                            </span>\
+                            <div class="chat-body clearfix">\
+                                <div class="header">\
+                                    <small class=" text-muted"></small>\
+                                    <strong class="pull-left primary-font">BroncoBot</strong>\
+                                </div>\
+                                <p class="pull-left"><font color ="maroon">'+answer+'</font></p>\
+                             </div>\
+                        </li>');
+            }
+
+
+
+               else if(response.url){
+                $(".media-list").append('<li class="left clearfix"><span class="chat-img pull-left">\
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg" alt="User Avatar" class="img-circle" align=left/>\
+                            </span>\
+                            <div class="chat-body clearfix">\
+                                <div class="header">\
+                                    <small class=" text-muted"></small>\
+                                    <strong class="pull-left primary-font">BroncoBot</strong>\
+                                </div>\
+                                <p class="pull-left"><font color ="maroon">'+answer+'<a href='+response.url+' input type="url"> Click here for more information</a><br> <br> <b>Was this the answer that you were looking for? (Y/N)</b> </font></p>\
+                             </div>\
+                        </li>');
+            }
+                else{
+                    $(".media-list").append('<li class="left clearfix"><span class="chat-img pull-left">\
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg" alt="User Avatar" class="img-circle" align=left/>\
+                            </span>\
+                            <div class="chat-body clearfix">\
+                                <div class="header">\
+                                    <small class=" text-muted"></small>\
+                                    <strong class="pull-left primary-font">BroncoBot</strong>\
+                                </div>\
+                                <p class="pull-left"><font color ="maroon"> &nbsp'+answer+'<br> <br> <b>Was this the answer that you were looking for? (Y/N)</b> </font></p>\
+                             </div>\
+                        </li>');
+                }    
+                $(".panel-body").stop().animate({ scrollTop: $(".panel-body")[0].scrollHeight}, 1000);
+            },
+            error: function(error) {
+                console.log(error);
+            }
+        });
+
+    });
+    
+});
+
+</script>
+</html>
