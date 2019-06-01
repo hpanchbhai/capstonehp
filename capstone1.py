@@ -89,7 +89,8 @@ url_2=[]
 
 
 for i in range (0,len(filenames)):
-    n="C:\github\hp\\flask-chatbot\html_files\\"+str(filenames[i])
+   # n="C:\github\hp\\flask-chatbot\html_files\\"+str(filenames[i])
+    n="https://github.com/hpanchbhai/capstonehp/tree/master/html_files/"+str(filenames[i])
     f = io.open(n, "r", encoding='utf-8')
     raw2=f.read()
     result=re.search('Source Link: (.*)\n\nSkip to main content',raw2)
